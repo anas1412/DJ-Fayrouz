@@ -17,14 +17,7 @@ To set up DJ Fayrouz Discord Bot, follow these steps:
 1. Clone the repository or download the source code.
 2. Install the required dependencies by running `pip install -r requirements.txt` in your terminal or command prompt.
 3. Create a new Discord bot and get the bot token. You can do this by following the Discord Developer Portal documentation.
-4. Create a `config.json` file in the root directory of the project and add your bot token in the following format:
-
-```json
-{
-  "token": "YOUR_BOT_TOKEN"
-}
-```
-
+4. In `.env` file in the root directory add your bot token
 5. Invite the bot to your Discord server using the OAuth2 URL generated in the Discord Developer Portal.
 6. Run the bot by executing python bot.py in your terminal or command prompt.
 
