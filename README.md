@@ -28,7 +28,7 @@ To set up DJ Fayrouz Discord Bot, follow these steps:
 5. Invite the bot to your Discord server using the OAuth2 URL generated in the Discord Developer Portal.
 6. Run the bot by executing python bot.py in your terminal or command prompt.
 
-##Usage
+## Usage
 Once the bot is running and connected to your Discord server, you can use the following commands to control the music playback:
 
 !play <song>: Searches for the provided song on YouTube and plays it.
