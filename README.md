@@ -7,8 +7,6 @@ DJ Fayrouz is a Discord bot written in Python that allows you to play music in y
 - Play music from YouTube: DJ Fayrouz can search and play music from YouTube by providing the song title or URL.
 - Music control: You can control the playback of the music by using commands such as play, pause, resume, skip, and stop.
 - Music queue: DJ Fayrouz supports a queue system, allowing users to add songs to a queue and listen to them in order.
-- Volume control: You can adjust the volume of the music playback using the volume command.
-- Lyrics: Get the lyrics of the currently playing song with the lyrics command.
 - Shuffle and repeat: DJ Fayrouz provides commands to shuffle the music queue and repeat the current song.
 - User-friendly commands: The bot offers simple and intuitive commands to interact with the music playback.
 
@@ -44,6 +42,11 @@ Once the bot is running and connected to your Discord server, you can use the fo
 !shuffle: Shuffles the music queue.
 !repeat: Repeats the currently playing song.
 Feel free to modify and enhance the bot according to your specific requirements.
+  
+## Todo
+
+- Play music from Spotify: DJ Fayrouz can search and play music from Spotify by providing the song title or URL.
+- Play a whole playlist: DJ Fayrouz can search and play playlists by providing the URL.
 
 ##Contributions
 Contributions to DJ Fayrouz Discord Bot are welcome! If you find any issues or have ideas for new features, please open an issue on the GitHub repository. You can also fork the repository, make your changes, and submit a pull request.
